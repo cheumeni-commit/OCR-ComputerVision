@@ -14,21 +14,16 @@ Ce projet a pour but d'appliquer des technique de Computer Vision comme l'OCR à
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
 ***
-Liste des modules utilisés pour réaliser ce projet:
+Liste des modules utilisés pour réaliser ce projet (Requirements):
 * [Python](https://www.python.org/downloads/release/python-370/): Version 3.7 
-* [numpy]: Version 2.34
-* [pytesseract]: Version 1234
-* [opencv]: Version 1234
-## Installation
-***
-Petite introduction à l'installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
+* [numpy]: Version 1.19.5
+* [pytesseract]: Version 0.3.7
+* [opencv]: Version 4.5.1.48
+* Linux or macOS with Python ≥ 3.6
+## Installs
+* Si vous êtes sur Windows, il faut disposer d'un IDE. A défaut, vous pouvez vous positionner en ligne de commande dans les scriptForms et scriptPoster et lancer en ligne de commande 'python ExtractInfosForms.py' ou 'python ObjectExtractor.py'
+* Si vous êtes sur Linux, il faut se positionner en ligne de commande dans le repertoire du projet et lancer './extractionInfoFormulaire.sh' ou './extractionInfoPoster.sh'
+
 ## Collaboration
 ***
 Give instructions on how to collaborate with your project.
