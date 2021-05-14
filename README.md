@@ -9,8 +9,7 @@ Utilisation d'algorithmes OCR pour l'extraction de ROI
 ### General Info
 ***
 Ce projet a pour but d'appliquer des technique de Computer Vision comme l'OCR à l'extraction des zones d'intérêt (ROI) de texte sur des images de poster ou des formulaires 
-### Screenshot
-![Image text](https://github.com/cheumeni-commit/OCR-ComputerVision/tree/master/data/poster/affiche 1.jpeg)
+
 ## Technologies
 ***
 Liste des modules utilisés pour réaliser ce projet (Requirements):
@@ -34,10 +33,10 @@ $ ./extractionInfoFormulaire.sh ou ./extractionInfoPoster.sh
 Si vous utilisez ce projet pour faire des travaux de recherche et pour résoudre d'autres problèmes, merci de me citer comme suit.
 
 ```BibTeX
-@misc{jmc2021GenerativeIA,
+@misc{jmc2021OCR-ComputerVision,
   author =       {Jean-Michel Cheumeni},
-  title =        {Generative AI},
-  howpublished = {\url{https://github.com/cheumeni-commit/GenerativeAI/tree/master}},
+  title =        {OCR CV},
+  howpublished = {\url{https://github.com/cheumeni-commit/OCR-ComputerVision/edit/master}},
   year =         {2021}
 }
 ```
