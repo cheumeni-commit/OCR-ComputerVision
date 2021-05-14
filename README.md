@@ -21,8 +21,16 @@ Liste des modules utilisés pour réaliser ce projet (Requirements):
 * [opencv]: Version 4.5.1.48
 * Linux or macOS with Python ≥ 3.6
 ## Installs
-* Si vous êtes sur Windows, il faut disposer d'un IDE. A défaut, vous pouvez vous positionner en ligne de commande dans les scriptForms et scriptPoster et lancer en ligne de commande 'python ExtractInfosForms.py' ou 'python ObjectExtractor.py'
-* Si vous êtes sur Linux, il faut se positionner en ligne de commande dans le repertoire du projet et lancer './extractionInfoFormulaire.sh' ou './extractionInfoPoster.sh'
+* Si vous êtes sur Windows, il faut disposer d'un IDE. A défaut, vous pouvez vous positionner en ligne de commande dans les scriptForms et scriptPoster et lancer en ligne de commande
+```
+$ python ExtractInfosForms.py ou python ObjectExtractor.py
+
+```
+* Si vous êtes sur Linux, il faut se positionner en ligne de commande dans le repertoire du projet et lancer '
+```
+$ ./extractionInfoFormulaire.sh ou ./extractionInfoPoster.sh
+
+```
 
 ## Collaboration
 ***
