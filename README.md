@@ -10,7 +10,7 @@ Utilisation d'algorithmes OCR pour l'extraction de ROI
 ***
 Ce projet a pour but d'appliquer des technique de Computer Vision comme l'OCR à l'extraction des zones d'intérêt (ROI) de texte sur des images de poster ou des formulaires 
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text](https://github.com/cheumeni-commit/OCR-ComputerVision/tree/master/data/poster/affiche 1.jpeg)
 ## Technologies
 ***
 Liste des modules utilisés pour réaliser ce projet (Requirements):
