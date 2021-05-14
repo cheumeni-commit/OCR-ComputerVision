@@ -2,25 +2,26 @@
 Utilisation d'algorithmes OCR pour l'extraction de ROI
 
 ## Table of Contents
-1. [General Info](#general-info)
+1. [Infos Generales](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+Ce projet a pour but d'appliquer des technique de Computer Vision comme l'OCR à l'extraction des zones d'intérêt (ROI) de texte sur des images de poster ou des formulaires 
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
 ***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+Liste des modules utilisés pour réaliser ce projet:
+* [Python](https://www.python.org/downloads/release/python-370/): Version 3.7 
+* [numpy]: Version 2.34
+* [pytesseract]: Version 1234
+* [opencv]: Version 1234
 ## Installation
 ***
-A little intro about the installation. 
+Petite introduction à l'installation. 
 ```
 $ git clone https://example.com
 $ cd ../path/to/the/file
