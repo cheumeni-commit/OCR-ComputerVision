@@ -6,9 +6,10 @@ Utilisation d'algorithmes OCR pour l'extraction de ROI
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Utilisation du projet](#Utilisation du projet)
+
 ### General Info
 ***
-Ce projet a pour but d'appliquer des technique de Computer Vision comme l'OCR à l'extraction des zones d'intérêt (ROI) de texte sur des images de poster ou des formulaires 
+Ce projet a pour but d'appliquer des techniques de Computer Vision comme les algorithmes d'OCR à l'extraction des zones d'intérêt (ROI) de texte sur des images de poster ou des formulaires.
 
 ## Technologies
 ***
