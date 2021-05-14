@@ -1,5 +1,5 @@
 # OCR-ComputerVision
-Utilisation d'algorithmes OCR pour l'extraction de ROI
+Utilisation d'algorithmes d'OCR pour l'extraction de ROI sur des images
 
 ## Table of Contents
 1. [Infos Generales](#general-info)
