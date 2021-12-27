@@ -1,1 +1,0 @@
-python scriptPoster/ObjectExtractor.py
