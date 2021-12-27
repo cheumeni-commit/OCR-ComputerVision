@@ -1,1 +1,0 @@
-python scriptForms/ExtractInfosForms.py
