@@ -14,7 +14,7 @@ Ce projet a pour but d'appliquer des techniques 'OCRisation sur des images avec 
 ## Technologies
 ***
 Liste des modules utilisés pour réaliser ce projet (Requirements):
-* cf. requirements
+* cf. requirements.txt
 ## Installs
 * Si vous êtes sur Windows, il faut disposer d'un IDE. A défaut, vous pouvez vous positionner en ligne de commande dans les scriptForms et scriptPoster et lancer en ligne de commande
 ```
